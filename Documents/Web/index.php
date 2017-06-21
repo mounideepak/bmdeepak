@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="C:\Users\VSP\Documents\Web\indix.css">
+<link rel="stylesheet" type="text/css" href="C:\Users\VSP\Documents\Web\index.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <head>
   <title>Login</title>
@@ -26,4 +26,4 @@
 </body>
 
 </html>
-<script src="C:\Users\VSP\Documents\Web\indix.js"> </script>
+<script src="C:\Users\VSP\Documents\Web\index.js"> </script>
